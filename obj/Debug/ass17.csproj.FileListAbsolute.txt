@@ -1,0 +1,8 @@
+D:\27-07\ass17\ass17\bin\Debug\ass17.exe.config
+D:\27-07\ass17\ass17\bin\Debug\ass17.exe
+D:\27-07\ass17\ass17\bin\Debug\ass17.pdb
+D:\27-07\ass17\ass17\obj\Debug\ass17.csproj.AssemblyReference.cache
+D:\27-07\ass17\ass17\obj\Debug\ass17.csproj.SuggestedBindingRedirects.cache
+D:\27-07\ass17\ass17\obj\Debug\ass17.csproj.CoreCompileInputs.cache
+D:\27-07\ass17\ass17\obj\Debug\ass17.exe
+D:\27-07\ass17\ass17\obj\Debug\ass17.pdb
